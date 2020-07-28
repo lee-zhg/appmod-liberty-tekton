@@ -18,6 +18,6 @@ items:
     - name: revision
       value: master
     - name: url
-      value: http://github.com/ibm-cloud-architecture/appmod-liberty-tekton
+      value: http://github.com/lee-zhg/appmod-liberty-tekton
     type: git
 kind: List
