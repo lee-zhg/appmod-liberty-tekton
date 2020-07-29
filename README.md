@@ -23,7 +23,7 @@ You will need the following:
 - [Git CLI](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - Red Hat OpenShift Container Platfrom 4.3 with Cluster Admin permissions
 - [oc CLI](https://docs.openshift.com/container-platform/3.11/cli_reference/get_started_cli.html)
-- DB2 Database (pre-DB2.md)
+- [DB2 Database](pre-DB2.md)
 - [Red Hat OpenShift Pipelines](OpenShiftPipelinesInstall.md)
 - [Tekton CLI](TektonCLIinstall.md)
 
